@@ -2,7 +2,7 @@
 
 This project is part of my **FreeCodeCamp Responsive Web Design Certification** — a personal portfolio website that introduces who I am and showcases some of my web projects.  
 
-I designed this page to feel simple, modern, and personal — something that reflects how I’m growing as a developer and creative.  
+I designed this page to feel simple, modern, and personal, something that reflects how I’m growing as a developer and creative.  
 
 ---
 
@@ -28,7 +28,7 @@ It features sections like:
 
 ## 🖼️ Preview
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](screenshot1.png)
 
 ---
 
@@ -42,7 +42,7 @@ It features sections like:
 ## 💭 Story Behind It
 
 This was one of my favorite FreeCodeCamp projects.  
-I wanted it to represent my journey — from learning basic HTML and CSS to building something that feels uniquely *me*.  
+I wanted it to represent my journey, from learning basic HTML and CSS to building something that feels uniquely *me*.  
 It’s not just a project; it’s a reminder of how far I’ve come in tech and where I’m headed next.
 
 ---
